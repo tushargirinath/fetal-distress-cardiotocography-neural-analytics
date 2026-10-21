@@ -1,0 +1,7 @@
+# This file ensures the artifacts directory exists in version control.
+# After running workflow.ipynb, this directory will contain:
+#   - model_weights.pth    : trained model parameters
+#   - model_config.json    : model architecture configuration
+#   - scaler_stats.json    : normalisation statistics (FHR/UC mean & std)
+#   - test_predictions.csv : predictions on the held-out test set
+#   - *.png                : evaluation plots (ROC, PR, confusion matrix, etc.)
