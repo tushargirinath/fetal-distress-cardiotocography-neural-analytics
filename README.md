@@ -1,8 +1,5 @@
 # Fetal Distress Detection from CTG Signals
 
-**Author**: Tushar D C  
-**Assignment**: AI/ML Intern — Janitri Innovations Pvt. Ltd.
-
 ## Overview
 
 A deep learning system for detecting fetal distress during labour using Cardiotocography (CTG) signals. The model analyses Fetal Heart Rate (FHR) and Uterine Contraction (UC) patterns to predict whether a baby is compromised, providing an early warning to clinicians.
