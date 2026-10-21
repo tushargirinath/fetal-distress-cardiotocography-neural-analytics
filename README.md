@@ -81,14 +81,13 @@ python generate_outcomes.py --input data/raw/ --output my_predictions.csv
 
 ## Data Sharing
 
-**Google Drive link**: *[Add your Google Drive link here after uploading]*
+**Google Drive link**: *https://drive.google.com/drive/folders/1ozdhA2h7R_3xr45IW8Dus7JO7C5PlP5d?usp=sharing*
 
 The Drive folder contains:
 - `data/processed/train.npz`, `val.npz`, `test.npz` — ready-to-use splits
 - `data/processed/sample_inference.npz` — small sample for quick inference testing
 - `artifacts/` — trained model weights and config
 
-Shared with: `shrut.dalwadi@janitri.in` and `ganesh.kavi@janitri.in`
 
 ## Methodology Summary
 
